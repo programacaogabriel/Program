@@ -1,2 +1,3 @@
-# programabase
-Programa usado para limpeza e instalação de softwares
+# programBase
+
+Program used for cleaning and installing software
